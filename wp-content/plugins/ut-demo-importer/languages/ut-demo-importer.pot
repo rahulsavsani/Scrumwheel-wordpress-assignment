@@ -1,0 +1,164 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Language: \n"
+"POT-Creation-Date: 2020-04-28 05:28+0000\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: CustomizerImporter.php:41
+msgid "Error importing settings! Please try again."
+msgstr ""
+
+#: CustomizerImporter.php:54 CustomizerImporter.php:58
+msgid ""
+"Error importing settings! Please check that you uploaded a customizer export "
+"file."
+msgstr ""
+
+#: CustomizerImporter.php:62
+msgid ""
+"Error importing settings! The settings you uploaded are not for the current "
+"theme."
+msgstr ""
+
+#: classes/importer.class.php:74 view/view-head.php:3
+msgid "Demo Importer"
+msgstr ""
+
+#: classes/importer.class.php:290
+msgid "Error on import"
+msgstr ""
+
+#: classes/importer.class.php:293
+msgid "File Error!!!"
+msgstr ""
+
+#: classes/importer.class.php:318
+msgid "Customizer Settings saved."
+msgstr ""
+
+#: classes/importer.class.php:320
+msgid "Customizer Settings could not be imported"
+msgstr ""
+
+#: classes/importer.class.php:323
+msgid "Customizer Settings file not found."
+msgstr ""
+
+#: classes/importer.class.php:341
+msgid "Widget data is not available"
+msgstr ""
+
+#: classes/importer.class.php:378
+msgid "Widget area does not exist in theme (using Inactive)"
+msgstr ""
+
+#: classes/importer.class.php:395
+msgid "Site does not support widget"
+msgstr ""
+
+#: classes/importer.class.php:424
+msgid "Widget already exists"
+msgstr ""
+
+#: classes/importer.class.php:478 view/view-body.php:12
+msgid "Imported"
+msgstr ""
+
+#: classes/importer.class.php:481
+msgid "Imported to Inactive"
+msgstr ""
+
+#: classes/importer.class.php:486
+msgid "No Title"
+msgstr ""
+
+#: classes/importer.class.php:492
+msgid "Widget Importer file not found."
+msgstr ""
+
+#: view/view-body.php:11
+msgid "Re-Import"
+msgstr ""
+
+#: view/view-body.php:14
+msgid "Import"
+msgstr ""
+
+#: view/view-body.php:15
+msgid "Not Imported"
+msgstr ""
+
+#: view/view-body.php:73
+msgid "Go Pro"
+msgstr ""
+
+#: view/view-body.php:78
+msgid "Preview"
+msgstr ""
+
+#: view/view-body.php:99
+msgid "Recomended Plugins"
+msgstr ""
+
+#: view/view-body.php:102
+msgid ""
+"These are the recomended plugins for this demo. To get exact looks and "
+"design, you need to install these plugins."
+msgstr ""
+
+#: view/view-body.php:141
+msgid "Please Activate all plugins."
+msgstr ""
+
+#: view/view-body.php:147
+msgid "Demo Import"
+msgstr ""
+
+#: view/view-body.php:150
+msgid ""
+"Importing demo may take some time. Please wait for a while until success "
+"message appears."
+msgstr ""
+
+#: view/view-body.php:166
+msgid "View Site"
+msgstr ""
+
+#: view/view-body.php:185
+msgid "X"
+msgstr ""
+
+#: view/view-head.php:35 view/view-head.php:55
+msgid "All"
+msgstr ""
+
+#: view/view-head.php:56
+msgid "Free"
+msgstr ""
+
+#: view/view-head.php:57
+msgid "Pro"
+msgstr ""
+
+#. Name of the plugin
+msgid "UT Demo Importer"
+msgstr ""
+
+#. Description of the plugin
+msgid "Demo importer for Uncode themes."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://ultrapress.uncodethemes.com/main/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Uncodethemes"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://uncodethemes.com"
+msgstr ""

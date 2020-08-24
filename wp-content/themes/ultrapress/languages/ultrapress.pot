@@ -1,0 +1,1220 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: UltraPress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-28 05:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: 404.php:16 inc/ultrapress-functions.php:318
+msgid "404 Error"
+msgstr ""
+
+#: 404.php:17
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:20
+msgid "Back to Home"
+msgstr ""
+
+#. 1: title.
+#: comments.php:32
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:38
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:59
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:55
+msgid "Primary"
+msgstr ""
+
+#: functions.php:110
+msgid "Default Sidebar"
+msgstr ""
+
+#: functions.php:112 functions.php:122
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:120
+msgid "Shop Sidebar"
+msgstr ""
+
+#: header.php:25
+msgid "Skip to content"
+msgstr ""
+
+#: inc/support-meta.php:10
+msgid "UltraPress Page Options"
+msgstr ""
+
+#: inc/support-meta.php:16 inc/support-meta.php:84 inc/support-meta.php:240
+#: inc/support-meta.php:255 inc/config/config-data.php:11
+#: inc/ultrapress-customizer/customizers/footer/footer.php:31
+#: inc/ultrapress-customizer/customizers/header/header.php:31
+msgid "Default"
+msgstr ""
+
+#: inc/support-meta.php:21
+#: inc/ultrapress-customizer/customizers/archive/sidebar.php:35
+#: inc/ultrapress-customizer/customizers/archive/single.php:88
+#: inc/ultrapress-customizer/customizers/page/sidebar.php:34
+#: inc/ultrapress-customizer/customizers/woocommerce/shop.php:93
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/support-meta.php:26
+#: inc/ultrapress-customizer/customizers/archive/sidebar.php:39
+#: inc/ultrapress-customizer/customizers/archive/single.php:92
+#: inc/ultrapress-customizer/customizers/page/sidebar.php:38
+#: inc/ultrapress-customizer/customizers/woocommerce/shop.php:97
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/support-meta.php:31
+msgid "Full width"
+msgstr ""
+
+#: inc/support-meta.php:73
+msgid "Header"
+msgstr ""
+
+#: inc/support-meta.php:74
+msgid "Title Banner"
+msgstr ""
+
+#: inc/support-meta.php:75 inc/support-meta.php:207
+msgid "Container"
+msgstr ""
+
+#: inc/support-meta.php:76
+msgid "Sidebar"
+msgstr ""
+
+#: inc/support-meta.php:77
+msgid "Footer"
+msgstr ""
+
+#: inc/support-meta.php:82
+msgid "Header Type"
+msgstr ""
+
+#: inc/support-meta.php:85 inc/support-meta.php:256
+#: inc/ultrapress-customizer/customizers/footer/footer.php:32
+#: inc/ultrapress-customizer/customizers/header/header.php:32
+msgid "Custom"
+msgstr ""
+
+#: inc/support-meta.php:86 inc/support-meta.php:257
+msgid "Hide"
+msgstr ""
+
+#: inc/support-meta.php:92
+msgid "Choose Custom Template"
+msgstr ""
+
+#: inc/support-meta.php:104
+msgid "Choose if custom header is selected."
+msgstr ""
+
+#: inc/support-meta.php:108
+#: inc/ultrapress-customizer/customizers/header/design.php:30
+msgid "Transparent Header"
+msgstr ""
+
+#: inc/support-meta.php:112
+msgid "Upload Page Logo"
+msgstr ""
+
+#: inc/support-meta.php:114
+msgid "Upload Logo"
+msgstr ""
+
+#: inc/support-meta.php:127 inc/support-meta.php:195
+msgid "Remove Image"
+msgstr ""
+
+#: inc/support-meta.php:134
+#: inc/ultrapress-customizer/customizers/bread-banner/banner.php:30
+#: inc/ultrapress-customizer/customizers/page/page.php:30
+msgid "Show Banner"
+msgstr ""
+
+#: inc/support-meta.php:144
+msgid "Banner is disabled from global setting in customizer."
+msgstr ""
+
+#: inc/support-meta.php:150
+msgid "Custom Title"
+msgstr ""
+
+#: inc/support-meta.php:154
+msgid "Custom SubTitle"
+msgstr ""
+
+#: inc/support-meta.php:159
+msgid "Banner Height"
+msgstr ""
+
+#: inc/support-meta.php:163
+#: inc/ultrapress-customizer/customizers/bread-banner/breadcrumb.php:29
+msgid "Show Breadcrumb"
+msgstr ""
+
+#: inc/support-meta.php:171
+#: inc/ultrapress-customizer/customizers/bread-banner/banner.php:46
+#: inc/ultrapress-customizer/customizers/footer/scroll-top.php:83
+#: inc/ultrapress-customizer/customizers/header/design.php:61
+#: inc/ultrapress-customizer/customizers/header/design.php:175
+#: inc/ultrapress-customizer/customizers/theme-color/theme-color.php:62
+msgid "Background Color"
+msgstr ""
+
+#: inc/support-meta.php:175
+#: inc/ultrapress-customizer/customizers/footer/scroll-top.php:113
+#: inc/ultrapress-customizer/customizers/header/design.php:145
+#: inc/ultrapress-customizer/customizers/typography/body.php:49
+msgid "Text Color"
+msgstr ""
+
+#: inc/support-meta.php:180
+#: inc/ultrapress-customizer/customizers/bread-banner/banner.php:117
+msgid "Background Image"
+msgstr ""
+
+#: inc/support-meta.php:182
+msgid "Upload Image"
+msgstr ""
+
+#: inc/support-meta.php:201
+msgid "Disable Container"
+msgstr ""
+
+#: inc/support-meta.php:205
+msgid "Container Width"
+msgstr ""
+
+#: inc/support-meta.php:208
+msgid "Container Fluid"
+msgstr ""
+
+#: inc/support-meta.php:214
+msgid "Sidebar position"
+msgstr ""
+
+#: inc/support-meta.php:238
+#: inc/ultrapress-customizer/inc/custom-controls.php:1081
+#: inc/ultrapress-customizer/customizers/archive/sidebar.php:57
+#: inc/ultrapress-customizer/customizers/archive/single.php:110
+#: inc/ultrapress-customizer/customizers/page/sidebar.php:56
+#: inc/ultrapress-customizer/customizers/woocommerce/shop.php:115
+msgid "Choose Sidebar"
+msgstr ""
+
+#: inc/support-meta.php:253
+msgid "Footer Type"
+msgstr ""
+
+#: inc/support-meta.php:262
+#: inc/ultrapress-customizer/customizers/footer/footer.php:48
+msgid "Choose Footer Template"
+msgstr ""
+
+#: inc/template-functions.php:63
+msgid "Previous Post"
+msgstr ""
+
+#: inc/template-functions.php:93
+msgid "Next Post"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:27
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:46
+msgid "Posted by"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:65 template-parts/content-page.php:43
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/ultrapress-functions.php:30
+msgid "Choose Template"
+msgstr ""
+
+#: inc/ultrapress-functions.php:275 inc/config/config-data.php:56
+#: inc/extras/breadcrumb.php:20
+msgid "Blog"
+msgstr ""
+
+#. %s: search term
+#: inc/ultrapress-functions.php:313
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-none.php:11
+msgid "Nothing Found"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:18
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:29
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:34
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:31 template-parts/content.php:44
+msgid "Pages:"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:34
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/config/config-data.php:12 inc/config/config-data.php:55
+msgid "Demo Sites"
+msgstr ""
+
+#: inc/config/config-data.php:13
+msgid "Business"
+msgstr ""
+
+#: inc/config/config-data.php:54
+msgid "Blogify"
+msgstr ""
+
+#: inc/extras/breadcrumb.php:22 inc/extras/breadcrumb.php:25
+msgid "Home"
+msgstr ""
+
+#: inc/extras/breadcrumb.php:30
+msgid "Archive by category"
+msgstr ""
+
+#: inc/extras/breadcrumb.php:32
+msgid "Search results for"
+msgstr ""
+
+#: inc/extras/breadcrumb.php:89
+msgid "Posts tagged"
+msgstr ""
+
+#: inc/extras/breadcrumb.php:93
+msgid "Articles posted by "
+msgstr ""
+
+#: inc/extras/breadcrumb.php:95
+msgid "Error 404"
+msgstr ""
+
+#: inc/extras/breadcrumb.php:101
+msgid "Page"
+msgstr ""
+
+#: inc/extras/dynamic-sidebar.php:45
+msgid "New Sidebar"
+msgstr ""
+
+#: inc/extras/dynamic-sidebar.php:67
+msgid "Do you really want to delete this sidebar?"
+msgstr ""
+
+#: inc/extras/dynamic-sidebar.php:124
+msgid "Add widgets here"
+msgstr ""
+
+#: inc/ultrapress-customizer/functions.php:36
+msgid "Follow me on Behance"
+msgstr ""
+
+#: inc/ultrapress-customizer/functions.php:37
+msgid "Fork me on Bitbucket"
+msgstr ""
+
+#: inc/ultrapress-customizer/functions.php:38
+msgid "Follow me on CodePen"
+msgstr ""
+
+#: inc/ultrapress-customizer/functions.php:39
+msgid "Watch me on DeviantArt"
+msgstr ""
+
+#: inc/ultrapress-customizer/functions.php:40
+msgid "Join me on Discord"
+msgstr ""
+
+#: inc/ultrapress-customizer/functions.php:41
+msgid "Follow me on Dribbble"
+msgstr ""
+
+#: inc/ultrapress-customizer/functions.php:42
+msgid "favorite me on Etsy"
+msgstr ""
+
+#: inc/ultrapress-customizer/functions.php:43
+msgid "Like me on Facebook"
+msgstr ""
+
+#: inc/ultrapress-customizer/functions.php:44
+msgid "Connect with me on Flickr"
+msgstr ""
+
+#: inc/ultrapress-customizer/functions.php:45
+msgid "Follow me on Foursquare"
+msgstr ""
+
+#: inc/ultrapress-customizer/functions.php:46
+msgid "Fork me on GitHub"
+msgstr ""
+
+#: inc/ultrapress-customizer/functions.php:47
+msgid "Follow me on Instagram"
+msgstr ""
+
+#: inc/ultrapress-customizer/functions.php:48
+msgid "Back me on Kickstarter"
+msgstr ""
+
+#: inc/ultrapress-customizer/functions.php:49
+msgid "Follow me on Last.fm"
+msgstr ""
+
+#: inc/ultrapress-customizer/functions.php:50
+msgid "Connect with me on LinkedIn"
+msgstr ""
+
+#: inc/ultrapress-customizer/functions.php:51
+msgid "Follow me on Medium"
+msgstr ""
+
+#: inc/ultrapress-customizer/functions.php:52
+msgid "Support me on Patreon"
+msgstr ""
+
+#: inc/ultrapress-customizer/functions.php:53
+msgid "Follow me on Pinterest"
+msgstr ""
+
+#: inc/ultrapress-customizer/functions.php:54
+msgid "Connect with me on Google+"
+msgstr ""
+
+#: inc/ultrapress-customizer/functions.php:55
+msgid "Join me on Reddit"
+msgstr ""
+
+#: inc/ultrapress-customizer/functions.php:56
+msgid "Join me on Slack"
+msgstr ""
+
+#: inc/ultrapress-customizer/functions.php:57
+msgid "Follow me on SlideShare"
+msgstr ""
+
+#: inc/ultrapress-customizer/functions.php:58
+msgid "Add me on Snapchat"
+msgstr ""
+
+#: inc/ultrapress-customizer/functions.php:59
+msgid "Follow me on SoundCloud"
+msgstr ""
+
+#: inc/ultrapress-customizer/functions.php:60
+msgid "Follow me on Spotify"
+msgstr ""
+
+#: inc/ultrapress-customizer/functions.php:61
+msgid "Join me on Stack Overflow"
+msgstr ""
+
+#: inc/ultrapress-customizer/functions.php:62
+msgid "Follow me on Tumblr"
+msgstr ""
+
+#: inc/ultrapress-customizer/functions.php:63
+msgid "Follow me on Twitch"
+msgstr ""
+
+#: inc/ultrapress-customizer/functions.php:64
+msgid "Follow me on Twitter"
+msgstr ""
+
+#: inc/ultrapress-customizer/functions.php:65
+msgid "Follow me on Vimeo"
+msgstr ""
+
+#: inc/ultrapress-customizer/functions.php:66
+msgid "Follow me on weibo"
+msgstr ""
+
+#: inc/ultrapress-customizer/functions.php:67
+msgid "Subscribe to me on YouTube"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/custom-widgets.php:6
+msgid "*Ultrapress - Recent Posts"
+msgstr ""
+
+#: inc/widgets/custom-widgets.php:7
+msgid "Ultrapress Recent Posts"
+msgstr ""
+
+#: inc/widgets/custom-widgets.php:98
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/widgets/custom-widgets.php:104 inc/widgets/custom-widgets.php:227
+#: inc/widgets/woocommerce-widgets.php:80
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/custom-widgets.php:106 inc/widgets/custom-widgets.php:229
+#: inc/widgets/woocommerce-widgets.php:82
+msgid "Number of posts:"
+msgstr ""
+
+#: inc/widgets/custom-widgets.php:109 inc/widgets/custom-widgets.php:232
+msgid "Hide Sticky posts"
+msgstr ""
+
+#: inc/widgets/custom-widgets.php:120 inc/widgets/custom-widgets.php:243
+msgid "Hide Date"
+msgstr ""
+
+#: inc/widgets/custom-widgets.php:154
+msgid "*Ultrapress - Recent Post Slider"
+msgstr ""
+
+#: inc/widgets/custom-widgets.php:155
+msgid "Ultrapress Recent Post Slider"
+msgstr ""
+
+#: inc/widgets/woocommerce-widgets.php:9
+msgid "*Ultrapress - Recent Products Slider"
+msgstr ""
+
+#: inc/widgets/woocommerce-widgets.php:10
+msgid "Ultrapress Recent Products Slider"
+msgstr ""
+
+#: inc/widgets/woocommerce-widgets.php:76
+msgid "Recent Products"
+msgstr ""
+
+#: template-parts/archive/archive-grid.php:46
+#: template-parts/archive/archive-list.php:51
+#: inc/ultrapress-customizer/customizers/archive/blog.php:90
+msgid "Read More"
+msgstr ""
+
+#: template-parts/footer/footer-default.php:14
+#, php-format
+msgid "Copyright &copy; %1$s | Powered by %2$s"
+msgstr ""
+
+#: template-parts/header/header-default.php:106
+msgid "Your Shopping Cart"
+msgstr ""
+
+#: template-parts/header/header-default.php:116
+#: inc/ultrapress-customizer/customizers/header/header.php:165
+msgid "Purchase"
+msgstr ""
+
+#: inc/ultrapress-customizer/inc/custom-controls.php:375
+msgid "Add"
+msgstr ""
+
+#: inc/ultrapress-customizer/inc/custom-controls.php:707
+msgid "Select weight & style for regular text"
+msgstr ""
+
+#: inc/ultrapress-customizer/inc/custom-controls.php:717
+#: inc/ultrapress-customizer/inc/custom-controls.php:735
+msgid "Select weight for"
+msgstr ""
+
+#: inc/ultrapress-customizer/inc/custom-controls.php:717
+msgid "italic text"
+msgstr ""
+
+#: inc/ultrapress-customizer/inc/custom-controls.php:735
+msgid "bold text"
+msgstr ""
+
+#: inc/ultrapress-customizer/inc/customizer.php:62
+msgid "General"
+msgstr ""
+
+#: inc/ultrapress-customizer/inc/customizer.php:72
+msgid "Header Settings"
+msgstr ""
+
+#: inc/ultrapress-customizer/inc/customizer.php:82
+msgid "Typography"
+msgstr ""
+
+#: inc/ultrapress-customizer/inc/customizer.php:92
+msgid "Breadcrumb Banner"
+msgstr ""
+
+#: inc/ultrapress-customizer/inc/customizer.php:102
+#: inc/ultrapress-customizer/customizers/page/page.php:12
+msgid "Page Settings"
+msgstr ""
+
+#: inc/ultrapress-customizer/inc/customizer.php:112
+msgid "Archive Settings"
+msgstr ""
+
+#: inc/ultrapress-customizer/inc/customizer.php:122
+#: inc/ultrapress-customizer/customizers/woocommerce/shop.php:12
+msgid "Shop Settings"
+msgstr ""
+
+#: inc/ultrapress-customizer/inc/customizer.php:133
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/ultrapress-customizer/inc/customizer.php:155
+msgid "View Documentation"
+msgstr ""
+
+#: inc/ultrapress-customizer/inc/customizer.php:167
+msgid "Body Style"
+msgstr ""
+
+#: inc/ultrapress-customizer/inc/customizer.php:176
+msgid "Heading Style"
+msgstr ""
+
+#: inc/ultrapress-customizer/inc/customizer.php:185
+#: inc/ultrapress-customizer/customizers/header/header.php:13
+msgid "Header Layouts"
+msgstr ""
+
+#: inc/ultrapress-customizer/inc/customizer.php:195
+#: inc/ultrapress-customizer/customizers/header/design.php:13
+msgid "Header Styles"
+msgstr ""
+
+#: inc/ultrapress-customizer/inc/customizer.php:206
+#: inc/ultrapress-customizer/customizers/bread-banner/banner.php:12
+msgid "Banner Settings"
+msgstr ""
+
+#: inc/ultrapress-customizer/inc/customizer.php:216
+#: inc/ultrapress-customizer/customizers/bread-banner/breadcrumb.php:12
+msgid "Breadcrumb Settings"
+msgstr ""
+
+#: inc/ultrapress-customizer/inc/customizer.php:226
+msgid "Page Contents"
+msgstr ""
+
+#: inc/ultrapress-customizer/inc/customizer.php:236
+#: inc/ultrapress-customizer/inc/customizer.php:267
+#: inc/ultrapress-customizer/customizers/archive/sidebar.php:12
+#: inc/ultrapress-customizer/customizers/page/sidebar.php:12
+msgid "Sidebar Settings"
+msgstr ""
+
+#: inc/ultrapress-customizer/inc/customizer.php:247
+#: inc/ultrapress-customizer/customizers/archive/blog.php:12
+msgid "Blog Settings"
+msgstr ""
+
+#: inc/ultrapress-customizer/inc/customizer.php:257
+#: inc/ultrapress-customizer/customizers/archive/single.php:12
+msgid "Single Post Settings"
+msgstr ""
+
+#: inc/ultrapress-customizer/inc/customizer.php:277
+#: inc/ultrapress-customizer/customizers/archive/meta.php:12
+msgid "Meta Settings"
+msgstr ""
+
+#: inc/ultrapress-customizer/inc/customizer.php:287
+msgid "Shop Page"
+msgstr ""
+
+#: inc/ultrapress-customizer/inc/customizer.php:297
+#: inc/ultrapress-customizer/customizers/woocommerce/related.php:12
+#: inc/ultrapress-customizer/customizers/woocommerce/related.php:21
+msgid "Related Products"
+msgstr ""
+
+#: inc/ultrapress-customizer/inc/customizer.php:307
+msgid "Mini Cart"
+msgstr ""
+
+#: inc/ultrapress-customizer/inc/customizer.php:317
+#: inc/ultrapress-customizer/customizers/footer/footer.php:12
+msgid "Footer Layouts"
+msgstr ""
+
+#: inc/ultrapress-customizer/inc/customizer.php:327
+msgid "Scroll Top"
+msgstr ""
+
+#: inc/ultrapress-customizer/inc/customizer.php:337
+#: inc/ultrapress-customizer/customizers/theme-color/theme-color.php:29
+msgid "Theme Color"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/archive/blog.php:30
+msgid "Blog Layout"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/archive/blog.php:35
+#: inc/ultrapress-customizer/customizers/woocommerce/shop.php:39
+msgid "Grid"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/archive/blog.php:39
+#: inc/ultrapress-customizer/customizers/woocommerce/shop.php:35
+msgid "List"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/archive/blog.php:43
+msgid "Masonry"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/archive/blog.php:59
+msgid "Select Column"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/archive/blog.php:62
+msgid "2"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/archive/blog.php:63
+msgid "3"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/archive/blog.php:64
+msgid "4"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/archive/blog.php:81
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/archive/blog.php:97
+msgid "Read More Text"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/archive/blog.php:113
+msgid "Button Type"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/archive/blog.php:117
+msgid "Normal Link"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/archive/blog.php:118
+#: inc/ultrapress-customizer/customizers/archive/blog.php:143
+msgid "Button"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/archive/blog.php:132
+msgid "Content Order"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/archive/blog.php:139
+#: inc/ultrapress-customizer/customizers/archive/single.php:62
+msgid "Feature Image"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/archive/blog.php:140
+#: inc/ultrapress-customizer/customizers/archive/single.php:63
+msgid "Title"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/archive/blog.php:141
+#: inc/ultrapress-customizer/customizers/archive/single.php:64
+msgid "Meta Tags"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/archive/blog.php:142
+#: inc/ultrapress-customizer/customizers/archive/single.php:65
+msgid "Content"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/archive/meta.php:30
+msgid "Show Meta"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/archive/meta.php:45
+msgid "Meta Order"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/archive/meta.php:52
+msgid "Date"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/archive/meta.php:53
+msgid "Author"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/archive/meta.php:54
+msgid "Categories"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/archive/meta.php:55
+msgid "Tags"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/archive/meta.php:56
+msgid "Comments"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/archive/meta.php:71
+msgid "Meta Styles"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/archive/meta.php:89
+msgid "Meta Color"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/archive/meta.php:106
+#: inc/ultrapress-customizer/customizers/bread-banner/banner.php:100
+#: inc/ultrapress-customizer/customizers/typography/body.php:66
+msgid "Font Size(px)"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/archive/sidebar.php:30
+#: inc/ultrapress-customizer/customizers/archive/single.php:83
+#: inc/ultrapress-customizer/customizers/page/sidebar.php:29
+#: inc/ultrapress-customizer/customizers/woocommerce/shop.php:88
+msgid "Choose Sidebar Layout"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/archive/sidebar.php:43
+#: inc/ultrapress-customizer/customizers/archive/single.php:96
+#: inc/ultrapress-customizer/customizers/page/sidebar.php:42
+#: inc/ultrapress-customizer/customizers/woocommerce/shop.php:101
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/archive/single.php:30
+msgid "Single Post Layout"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/archive/single.php:35
+msgid "Layout1"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/archive/single.php:39
+msgid "Layout2"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/archive/single.php:55
+msgid "Post Content Order"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/archive/single.php:66
+msgid "Coments"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/archive/single.php:67
+msgid "Navigation"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/bread-banner/banner.php:63
+msgid "Title Color"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/bread-banner/banner.php:81
+#: inc/ultrapress-customizer/customizers/footer/scroll-top.php:49
+msgid "Left"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/bread-banner/banner.php:82
+#: inc/ultrapress-customizer/customizers/footer/scroll-top.php:50
+msgid "Right"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/bread-banner/banner.php:83
+msgid "Center"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/bread-banner/banner.php:84
+msgid "Wide"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/bread-banner/banner.php:86
+msgid "Content Position"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/bread-banner/banner.php:134
+msgid "Background Overlay"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/bread-banner/banner.php:153
+msgid "Banner Height(px)"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/bread-banner/breadcrumb.php:43
+msgid "Breadcrumb Separator"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/bread-banner/breadcrumb.php:59
+msgid "Breadcrumb Nav Color"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/bread-banner/breadcrumb.php:75
+msgid "Breadcrumb Nav Hover Color"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/footer/footer.php:28
+msgid "Choose Footer Layouts"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/footer/footer.php:67
+#: inc/ultrapress-customizer/customizers/footer/footer.php:87
+#: inc/ultrapress-customizer/customizers/header/header.php:67
+#: inc/ultrapress-customizer/customizers/header/header.php:88
+msgid "Note:"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/footer/footer.php:68
+#: inc/ultrapress-customizer/customizers/header/header.php:68
+msgid "Elementor is not installed.Please install and activate elementor first."
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/footer/footer.php:88
+msgid "Footer built from elementor will be applied."
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/footer/footer.php:105
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/footer/footer.php:106
+msgid "[date],[site-title] can be used."
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/footer/footer.php:124
+msgid "Background color"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/footer/footer.php:140
+msgid "Text color"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/footer/scroll-top.php:12
+msgid "Scroll Top Settings"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/footer/scroll-top.php:30
+msgid "Show Scroll Top"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/footer/scroll-top.php:46
+msgid "Scroll Top Position"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/footer/scroll-top.php:65
+#: inc/ultrapress-customizer/customizers/woocommerce/mini-cart.php:46
+msgid "Display Style"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/footer/scroll-top.php:68
+msgid "Square"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/footer/scroll-top.php:69
+msgid "Circle"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/footer/scroll-top.php:98
+msgid "Background Hover"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/footer/scroll-top.php:128
+#: inc/ultrapress-customizer/customizers/theme-color/theme-color.php:113
+msgid "Text Hover Color"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/header/design.php:46
+msgid "Header Container"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/header/design.php:76
+msgid "Nav Text Color"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/header/design.php:91
+msgid "Nav Hover Color"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/header/design.php:107
+msgid "Nav Font Size(px)"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/header/design.php:128
+msgid "Button Styles"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/header/design.php:160
+msgid "Text Hover color"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/header/design.php:190
+#: inc/ultrapress-customizer/customizers/theme-color/theme-color.php:79
+msgid "Background Hover Color"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/header/design.php:205
+msgid "Border Color"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/header/header.php:28
+msgid "Choose Header Layouts"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/header/header.php:48
+msgid "Choose Header Template"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/header/header.php:89
+msgid "Header built from elementor will be applied."
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/header/header.php:108
+msgid "Sticky Header"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/header/header.php:125
+msgid "Header Button"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/header/header.php:142
+msgid "Show Search"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/header/header.php:158
+msgid "Show Button"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/header/header.php:171
+msgid "Button Text"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/header/header.php:183
+msgid "Button link"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/header/header.php:202
+msgid "Retina Logo"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/header/header.php:221
+msgid "Sticky Logo"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/page/page.php:47
+msgid "Show Page Title"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/page/page.php:64
+msgid "Show Feature Image"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/theme-color/theme-color.php:12
+msgid "Theme Skin Color"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/theme-color/theme-color.php:45
+msgid "Button Color"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/theme-color/theme-color.php:96
+#: inc/ultrapress-customizer/customizers/woocommerce/mini-cart.php:97
+msgid "Button Text Color"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/theme-color/theme-color.php:130
+#: inc/ultrapress-customizer/customizers/theme-color/theme-color.php:148
+msgid "Anchor Color"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/theme-color/theme-color.php:165
+msgid "Anchor Hover Color"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/typography/body.php:12
+msgid "Body Font Styles"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/typography/body.php:29
+msgid "Body Font Family"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/typography/body.php:88
+msgid "Line Height(em)"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/typography/heading.php:12
+msgid "Heading Font Styles"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/typography/heading.php:28
+msgid "Heading Font Family"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/typography/heading.php:48
+msgid "Heading Color"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/typography/heading.php:65
+msgid "H1 Font Size(px)"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/typography/heading.php:86
+msgid "H2 Font Size(px)"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/typography/heading.php:107
+msgid "H3 Font Size(px)"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/typography/heading.php:128
+msgid "H4 Font Size(px)"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/typography/heading.php:149
+msgid "H5 Font Size(px)"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/typography/heading.php:170
+msgid "H6 Font Size(px)"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/woocommerce/mini-cart.php:12
+msgid "Mini Cart Settings"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/woocommerce/mini-cart.php:30
+msgid "Show Mini Cart"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/woocommerce/mini-cart.php:49
+msgid "Dropdown"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/woocommerce/mini-cart.php:50
+msgid "Offcanvas"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/woocommerce/mini-cart.php:65
+msgid "Button Background"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/woocommerce/mini-cart.php:81
+msgid "Button Background Hover"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/woocommerce/mini-cart.php:113
+msgid "Button Text Hover"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/woocommerce/related.php:27
+msgid "Related title"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/woocommerce/related.php:41
+msgid "No. of product"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/woocommerce/related.php:56
+#: inc/ultrapress-customizer/customizers/woocommerce/shop.php:55
+msgid "Column no."
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/woocommerce/shop.php:30
+msgid "Display Layout"
+msgstr ""
+
+#: inc/ultrapress-customizer/customizers/woocommerce/shop.php:72
+msgid "Product per page"
+msgstr ""
+
+#. Name of the theme
+msgid "UltraPress"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"UltraPress is a super fast, lightweight, fully customizable, multi-purpose "
+"and beautiful WordPress theme. It’s perfect for blogs, personal portfolio, "
+"small business(restaurants, wedding planners, plumbers, sport/medical shops),"
+" startups, agencies as well as WooCommerce storefront sites and most types "
+"of projects. Ultrapress works perfectly with Gutenberg and the most popular "
+"page builders (Elementor, Brizy, Beaver Builder, Visual Composer). "
+"Ultrapress is also WooCommerce ready, responsive, Retina ready, SEO friendly,"
+" RTL &amp; translation ready. Ultrapress comes with many starter free sites "
+"which can be used for developing any niche websites for you or your client "
+"projects. Looking for a multi-purpose theme? Look no further, UltraPress can "
+"be used for building any kind of websites!"
+msgstr ""
+
+#. URI of the theme
+msgid "https://uncodethemes.com/wordpress-themes/ultrapress/"
+msgstr ""
+
+#. Author of the theme
+msgid "Uncodethemes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://uncodethemes.com/"
+msgstr ""

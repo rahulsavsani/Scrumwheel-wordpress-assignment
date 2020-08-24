@@ -1,0 +1,483 @@
+* { box-sizing: border-box; }
+
+img{
+	max-width: 100%;
+}
+/* ---- button ---- */
+
+.ut-demo-importer .btn-item {
+	display: inline-block;
+	padding: 5px 2px;
+	margin:0px 5px 10px 5px;
+	background: #EEE;
+	border: none;
+	border-radius: 7px;
+	background-image: linear-gradient( to bottom, hsla(0, 0%, 0%, 0), hsla(0, 0%, 0%, 0.2) );
+	color: #222;
+	font-family: sans-serif;
+	font-size: 13px;
+	text-shadow: 0 1px white;
+	cursor: pointer;
+	text-transform:uppercase;
+}
+
+.ut-demo-importer .btn-item:hover {
+	background-color: #000000;
+	color: #fff;
+}
+
+.ut-demo-importer .btn-item:active,
+.ut-demo-importer .btn-item.is-checked {
+	background-color: #000000;
+}
+
+.ut-demo-importer .btn-item.is-checked {
+	color: white;
+	text-shadow: 0 -1px hsla(0, 0%, 0%, 0.8);
+}
+
+.ut-demo-importer .btn-item:active {
+	box-shadow: inset 0 1px 10px hsla(0, 0%, 0%, 0.8);
+}
+
+/* ---- button-group ---- */
+
+.button-group:after {
+	content: '';
+	display: block;
+	clear: both;
+}
+
+.button-group .btn-item {
+	float: left;
+	border-radius: 0;
+	margin-left: 0;
+	margin-right: 1px;
+}
+
+.button-group .button:first-child { border-radius: 0.5em 0 0 0.5em; }
+.button-group .button:last-child { border-radius: 0 0.5em 0.5em 0; }
+/* clear fix */
+.grid:after {
+	content: '';
+	display: block;
+	clear: both;
+}
+
+/* ---- .element-item ---- */
+
+.element-item {
+	position: relative;
+	float: left;
+	width: 100px;
+	height: 100px;
+	margin: 5px;
+	padding: 10px;
+	background: #888;
+	color: #262524;
+}
+
+.element-item > * {
+	margin: 0;
+	padding: 0;
+}
+
+.element-item .name {
+	position: absolute;
+
+	left: 10px;
+	top: 60px;
+	text-transform: none;
+	letter-spacing: 0;
+	font-size: 12px;
+	font-weight: normal;
+}
+
+.element-item .symbol {
+	position: absolute;
+	left: 10px;
+	top: 0px;
+	font-size: 42px;
+	font-weight: bold;
+	color: white;
+}
+
+.element-item .number {
+	position: absolute;
+	right: 8px;
+	top: 5px;
+}
+
+.element-item .weight {
+	position: absolute;
+	left: 10px;
+	top: 76px;
+	font-size: 12px;
+}
+.text-center{
+	text-align: center;
+}
+.ui-group{
+	display: inline-block;
+	margin-left: 25px;
+}
+.theme-browser .theme .theme-name{
+	box-sizing: unset;
+}
+.ut-demo-importer .button-group li.btn-item{
+	text-shadow: unset;
+	margin:0px 7px 0px 7px;
+	background: #fff;
+	color: #72777c;
+	border: 1px solid #ffffff;
+	transition: all 0.3s ease-in-out;
+}
+.ut-demo-importer li.btn-item.is-checked {
+	box-shadow: unset;
+	border-bottom: 1px solid #72777c;
+	color: #000;
+}
+.ut-demo-importer .button-group li.btn-item:hover{
+	color: #000;
+}
+.ut-demo-importer nav.nav-wrap.filters {
+	background: #fff;
+	padding: 10px 25px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+.ut-demo-importer .welcome-panel{ padding:8px 10px;}
+.ut-demo-importer .welcome-panel .about-description{ font-size:15px;}
+.demo-response {
+	height:200px; 
+    overflow-y: auto; 
+    margin-bottom:20px;
+}
+/* Outer */
+.popup {
+	width:100%;
+	height:100%;
+	display:none;
+	position:fixed;
+	top:0px;
+	left:0px;
+	background:rgba(0,0,0,0.75);
+	z-index: 999;
+}
+
+/* Inner */
+.popup-inner {
+	width:50%;
+	padding:40px;
+	position:absolute;
+	top:50%;
+	left:50%;
+	-webkit-transform:translate(-50%, -50%);
+	transform:translate(-50%, -50%);
+	box-shadow:0px 2px 6px rgba(0,0,0,1);
+	border-radius:3px;
+	background:#fff;
+}
+
+/* Close Button */
+.popup-close {
+	width:30px;
+	height:30px;
+	padding-top:4px;
+	display:inline-block;
+	position:absolute;
+	top:0px;
+	right:0px;
+	transition:ease 0.25s all;
+	-webkit-transform:translate(50%, -50%);
+	transform:translate(50%, -50%);
+	border-radius:1000px;
+	background:rgba(0,0,0,0.8);
+	font-family:Arial, Sans-Serif;
+	font-size:20px;
+	text-align:center;
+	line-height:100%;
+	color:#fff;
+}
+
+.popup-close:hover {
+	-webkit-transform:translate(50%, -50%) rotate(180deg);
+	transform:translate(50%, -50%) rotate(180deg);
+	background:rgba(0,0,0,1);
+	text-decoration:none;
+}
+figure.model-img {
+	margin: 0 auto;
+	padding: 0;
+	width: 80%;
+}
+
+.LoaderBalls {
+	width: 20px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.LoaderBalls__item {
+	width: 5px;
+	height: 5px;
+	border-radius: 50%;
+	background: #00f1ca;
+}
+.LoaderBalls__item:nth-child(1) {
+	animation: bouncing 0.4s alternate infinite cubic-bezier(0.6, 0.05, 0.15, 0.95);
+}
+.LoaderBalls__item:nth-child(2) {
+	animation: bouncing 0.4s 0.1s alternate infinite cubic-bezier(0.6, 0.05, 0.15, 0.95) backwards;
+}
+.LoaderBalls__item:nth-child(3) {
+	animation: bouncing 0.4s 0.2s alternate infinite cubic-bezier(0.6, 0.05, 0.15, 0.95) backwards;
+}
+.LoaderBalls__item:nth-child(4) {
+	animation: bouncing 0.4s 0.3s alternate infinite cubic-bezier(0.6, 0.05, 0.15, 0.95) backwards;
+}
+
+@keyframes bouncing {
+	0% {
+		transform: translate3d(0, 10px, 0) scale(1.2, 0.85);
+	}
+	100% {
+		transform: translate3d(0, -20px, 0) scale(0.9, 1.1);
+	}
+}
+.demo-done {
+	width: 25%;
+	margin-right: auto;
+	margin-left: auto;
+}
+.LoaderBalls {
+	margin-left: auto;
+	margin-right: auto;
+}
+.ut-demo-importer .btn-disable{
+	pointer-events:none;
+}
+.ut-demo-importer .utdi-demo-browser .grid .utdi-demo-item {
+	width: calc(33% - 30px);
+	margin: 15px;
+	height: auto;
+}
+h2, h3{
+	margin-top: 0;
+}
+@media (min-width: 1600px){
+	.ut-demo-importer .utdi-demo-browser .grid .utdi-demo-item {
+		width: calc(25% - 30px);
+	}
+}
+.ut-demo-importer span.pro-tag {
+	position: absolute;
+	right: -32px;
+	top: -7px;
+	background-color: #0085ba;
+	color: #fff;
+	height: 50px;
+	width: 100px;
+	display: flex;
+	justify-content: center;
+	align-items: flex-end;
+	padding-bottom: 10px;
+	transform: rotate(45deg);
+	font-size: 14px;
+}
+.ut-demo-importer ul.plugin-list li {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+.ut-demo-importer ul.plugin-list li span {
+	width: 60%;
+	display: inline-block;
+	height: 45px;
+	background: #efefef;
+	text-align: left;
+	padding: 15px 20px;
+}
+.ut-demo-importer #msform .action-button {
+	width: auto;
+	padding: 15px 30px;
+	margin: 0;
+	height: auto;
+}
+.ut-demo-importer .popup .popup-wrap fieldset a.button.action-button {
+	line-height: normal;
+}
+.ut-demo-importer .popup .popup-wrap form#msform fieldset .action-button {
+	margin: 0 10px!important;
+}
+.ut-demo-importer .popup .popup-wrap form#msform fieldset ul.plugin-list li .action-button{
+	margin: 0!important;
+}
+.ut-demo-importer .popup .popup-wrap {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.ut-demo-importer .popup .popup-wrap form#msform {
+	display: flex;
+	align-items: center;
+	margin: 0 auto;
+	height: 100%;
+}
+.ut-demo-importer .popup .popup-wrap form#msform ul#progressbar {
+	position: absolute;
+	bottom: 50px;
+	display: flex;
+	width: 100%;
+	justify-content: center;
+	margin: 0;
+}
+.ut-demo-importer .popup .popup-wrap form#msform a.popup-close {
+	position: absolute;
+	top: 20%;
+	text-decoration: none;
+	font-size: 14px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 0;
+}
+.ut-demo-importer button.action-button.btn-disable{
+	cursor: not-allowed;
+}
+.ut-demo-importer .utdi-demo-browser .grid .utdi-demo-item .utdi-demo-actions {
+	display: flex;
+	justify-content: center;
+}
+.ut-demo-importer .utdi-demo-browser .grid .utdi-demo-item .utdi-demo-actions a.button {
+	margin: 0 5px;
+}
+.ut-demo-importer .LoaderBalls {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: 0;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	background-color: rgba(255, 255, 255, 0.7);
+	border-radius: 5px;
+}
+.ut-demo-importer .popup .popup-wrap form#msform fieldset a.btn-view-site.button {
+	background-color: #006799;
+	color: #fff;
+	border: 0;
+	position: absolute;
+	right: 20px;
+	bottom: 20px;
+}
+.ut-demo-importer nav.nav-wrap.filters .ui-group {
+	margin-left: 0;
+}
+.upload-plugin .wp-upload-form {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+.upload-plugin .wp-upload-form input#pluginzip {
+	width: 50%;
+	display: inline-block;
+}
+@media (max-width: 1024px){
+	.ut-demo-importer nav.nav-wrap.filters {
+		padding: 0 20px;
+	}
+	.ut-demo-importer nav.nav-wrap.filters .ui-group {
+		display: block;
+		padding: 20px 0;
+		border-bottom: 1px solid;
+		width: 100%;
+		display: flex;
+		justify-content: center;
+		margin: 0;
+	}
+	.ut-demo-importer nav.nav-wrap.filters .ui-group:last-child {
+		border-bottom: 0;
+	}
+}
+@media (max-width: 991px){
+	.ut-demo-importer .utdi-demo-browser .grid .utdi-demo-item {
+		width: calc(50% - 30px);
+		margin: 15px;
+		height: auto;
+	}
+}
+@media (max-width: 575px){
+	.ut-demo-importer nav.nav-wrap.filters {
+		padding: 0 20px;
+		margin-bottom: 15px;
+	}
+	.ut-demo-importer .utdi-demo-browser .grid .utdi-demo-item {
+		width: calc(100% - 0px);
+		margin: 15px 0;
+	}
+	.ut-demo-importer .popup .popup-wrap form#msform a.popup-close {
+		top: 5%;
+		right: 20px;
+		background-color: #fff;
+		color: #000;
+		transform-origin: center;
+		padding: 0;
+	}
+	.ut-demo-importer .wp-core-ui .button-group li.btn-item {
+		padding: 10px;
+		font-size: 14px;
+	}
+	.ut-demo-importer .popup .popup-wrap form#msform {
+		justify-content: center;
+	}
+	.ut-demo-importer .popup .popup-wrap form#msform fieldset {
+		width: 95%;
+		margin: 0 auto;
+		padding: 20px 20px;
+	}
+	.ut-demo-importer .popup .popup-wrap form#msform fieldset ul.plugin-list li .action-button {
+		margin: 0!important;
+		width: 100%;
+		padding: 11px 30px;
+	}
+	.ut-demo-importer ul.plugin-list li span {
+		width: 100%;
+		display: inline-block;
+		height: 40px;
+		background: #efefef;
+		text-align: left;
+		padding: 12px 20px;
+		text-align: center;
+	}
+	.ut-demo-importer .popup .popup-wrap form#msform fieldset a.btn-view-site.button + a.button.action-button {
+		margin-bottom: 40px!important;
+	}
+	.ut-demo-importer .popup .popup-wrap form#msform fieldset a.btn-view-site.button {
+		right: 50%;
+		bottom: 20px;
+		margin-right: -43px;
+	}
+	.ut-demo-importer nav.nav-wrap.filters .ui-group li {
+		font-size: 14px;
+		padding: 10px 10px;
+	}
+}
+
+.plugin-msg {
+	margin-bottom: 10px;
+    color: white;
+    background: red;
+    width: 60%;
+    margin: 0 auto 10px;
+    padding: 5px;
+}

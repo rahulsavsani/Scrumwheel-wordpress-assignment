@@ -1,0 +1,4 @@
+2020-08-18T12:20:27+00:00 CRITICAL require_once(): Failed opening required '/../../../wp-config.php' (include_path='.;C:\php\pear') in D:\wamp64\www\wordpress\wp-content\themes\ultrapress\functions.php on line 196
+
+2020-08-18T12:20:41+00:00 CRITICAL require_once(): Failed opening required '../../../wp-config.php' (include_path='.;C:\php\pear') in D:\wamp64\www\wordpress\wp-content\themes\ultrapress\functions.php on line 196
+

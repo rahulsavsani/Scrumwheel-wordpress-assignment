@@ -1,0 +1,877 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Language: \n"
+"POT-Creation-Date: 2020-04-13 01:13+0000\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. Name of the plugin
+#: ut-elementor-addons-lite.php:79
+msgid "UT Elementor Addons Lite"
+msgstr ""
+
+#: elements/blog-block.php:15
+msgid "Post Block"
+msgstr ""
+
+#: elements/blog-block.php:33 elements/blog-grid.php:33
+#: elements/blog-list.php:31 elements/products.php:76 elements/slider.php:31
+msgid "Section Setting"
+msgstr ""
+
+#: elements/blog-block.php:39 elements/blog-grid.php:40
+#: elements/blog-list.php:38
+msgid "Element Title"
+msgstr ""
+
+#: elements/blog-block.php:40 elements/blog-grid.php:41
+#: elements/blog-list.php:39
+msgid "Enter text to change element title."
+msgstr ""
+
+#: elements/blog-block.php:47
+msgid "Main Post Position"
+msgstr ""
+
+#: elements/blog-block.php:52 elements/slider.php:679
+msgid "Left"
+msgstr ""
+
+#: elements/blog-block.php:53 elements/slider.php:687
+msgid "Right"
+msgstr ""
+
+#: elements/blog-block.php:61
+msgid "Primary Image Size"
+msgstr ""
+
+#: elements/blog-block.php:71 elements/blog-grid.php:59
+#: elements/blog-list.php:57
+msgid "Image Ratio"
+msgstr ""
+
+#: elements/blog-block.php:99 elements/blog-grid.php:87
+#: elements/blog-list.php:85
+msgid "Image Width"
+msgstr ""
+
+#: elements/blog-block.php:132
+msgid "Secondary Post Layout"
+msgstr ""
+
+#: elements/blog-block.php:137
+msgid "Grid"
+msgstr ""
+
+#: elements/blog-block.php:138
+msgid "List"
+msgstr ""
+
+#: elements/blog-block.php:146
+msgid "Secondary Image Size"
+msgstr ""
+
+#: elements/blog-block.php:154
+msgid "Secondary Image Ratio"
+msgstr ""
+
+#: elements/blog-block.php:182
+msgid "Secondary Image Width"
+msgstr ""
+
+#: elements/blog-block.php:216
+msgid "Fallback Image"
+msgstr ""
+
+#: elements/blog-block.php:228 elements/slider.php:113
+#: includes/elementor-helper.php:177
+msgid "Post Content"
+msgstr ""
+
+#: elements/blog-block.php:240
+msgid "Main Post"
+msgstr ""
+
+#: elements/blog-block.php:246 elements/slider.php:123
+#: includes/elementor-helper.php:186
+msgid "Post Title"
+msgstr ""
+
+#: elements/blog-block.php:249 elements/blog-block.php:282
+#: elements/blog-block.php:305 elements/blog-block.php:337
+#: elements/blog-block.php:370 elements/blog-block.php:393
+#: elements/blog-list.php:516 elements/slider.php:126 elements/slider.php:159
+#: elements/slider.php:183 includes/elementor-helper.php:189
+#: includes/elementor-helper.php:226 includes/elementor-helper.php:254
+msgid "Show"
+msgstr ""
+
+#: elements/blog-block.php:250 elements/blog-block.php:283
+#: elements/blog-block.php:306 elements/blog-block.php:338
+#: elements/blog-block.php:371 elements/blog-block.php:394
+#: elements/blog-list.php:517 elements/slider.php:127 elements/slider.php:160
+#: elements/slider.php:184 includes/elementor-helper.php:190
+#: includes/elementor-helper.php:227 includes/elementor-helper.php:255
+msgid "Hide"
+msgstr ""
+
+#: elements/blog-block.php:258 elements/slider.php:135
+#: includes/elementor-helper.php:200
+msgid "Post Title Tag"
+msgstr ""
+
+#: elements/blog-block.php:259 elements/blog-block.php:347
+#: elements/slider.php:136 includes/elementor-helper.php:201
+msgid "Choose heading tag for Post title."
+msgstr ""
+
+#: elements/blog-block.php:264 elements/blog-block.php:352
+#: elements/slider.php:141 includes/elementor-helper.php:206
+msgid "H1"
+msgstr ""
+
+#: elements/blog-block.php:265 elements/blog-block.php:353
+#: elements/slider.php:142 includes/elementor-helper.php:207
+msgid "H2"
+msgstr ""
+
+#: elements/blog-block.php:266 elements/blog-block.php:354
+#: elements/slider.php:143 includes/elementor-helper.php:208
+msgid "H3"
+msgstr ""
+
+#: elements/blog-block.php:267 elements/blog-block.php:355
+#: elements/slider.php:144 includes/elementor-helper.php:209
+msgid "H4"
+msgstr ""
+
+#: elements/blog-block.php:268 elements/blog-block.php:356
+#: elements/slider.php:145 includes/elementor-helper.php:210
+msgid "H5"
+msgstr ""
+
+#: elements/blog-block.php:269 elements/blog-block.php:357
+#: elements/slider.php:146 includes/elementor-helper.php:211
+msgid "H6"
+msgstr ""
+
+#: elements/blog-block.php:279 elements/slider.php:156
+#: includes/elementor-helper.php:223
+msgid "Excerpt"
+msgstr ""
+
+#: elements/blog-block.php:290 elements/slider.php:168
+#: includes/elementor-helper.php:237
+msgid "Post Excerpt Length"
+msgstr ""
+
+#: elements/blog-block.php:293 elements/blog-block.php:381
+#: elements/slider.php:171 includes/elementor-helper.php:240
+msgid "Enter Length for contents in letters or leave blank to hide content"
+msgstr ""
+
+#: elements/blog-block.php:302 elements/blog-block.php:1190
+#: elements/blog-block.php:1199 elements/blog-grid.php:999
+#: elements/blog-list.php:1383 elements/slider.php:180 elements/slider.php:259
+#: elements/slider.php:288 elements/slider.php:1169
+#: includes/elementor-helper.php:251
+msgid "Read More"
+msgstr ""
+
+#: elements/blog-block.php:313 elements/slider.php:192
+#: includes/elementor-helper.php:265
+msgid "Read More Text"
+msgstr ""
+
+#: elements/blog-block.php:314 elements/blog-block.php:402
+#: elements/slider.php:193 includes/elementor-helper.php:266
+msgid "Enter text for Read More button or leave it blank to hide"
+msgstr ""
+
+#: elements/blog-block.php:327
+msgid "Secondary Post"
+msgstr ""
+
+#: elements/blog-block.php:334
+msgid "Secondary Post Title"
+msgstr ""
+
+#: elements/blog-block.php:346
+msgid "Secondary Post Title Tag"
+msgstr ""
+
+#: elements/blog-block.php:367
+msgid "Secondary Excerpt"
+msgstr ""
+
+#: elements/blog-block.php:378
+msgid "Secondary Post Excerpt Length"
+msgstr ""
+
+#: elements/blog-block.php:390
+msgid "Secondary Read More"
+msgstr ""
+
+#: elements/blog-block.php:401
+msgid "Secondary Read More Text"
+msgstr ""
+
+#: elements/blog-block.php:422 elements/blog-grid.php:288
+#: elements/blog-list.php:187 elements/products.php:125 elements/slider.php:308
+msgid "General Styles"
+msgstr ""
+
+#: elements/blog-block.php:430 elements/blog-grid.php:296
+#: elements/blog-list.php:194
+msgid "Element Color"
+msgstr ""
+
+#: elements/blog-block.php:441 elements/blog-grid.php:307
+#: elements/blog-list.php:205
+msgid "Element Typography"
+msgstr ""
+
+#: elements/blog-block.php:457 elements/blog-grid.php:322
+#: elements/blog-list.php:221 elements/slider.php:316
+msgid "Date Color"
+msgstr ""
+
+#: elements/blog-block.php:469 elements/blog-grid.php:334
+#: elements/blog-list.php:233 elements/slider.php:373
+msgid "Date Typography"
+msgstr ""
+
+#: elements/blog-block.php:488 elements/blog-block.php:544
+#: elements/blog-block.php:633 elements/blog-block.php:821
+#: elements/blog-grid.php:379 elements/blog-grid.php:436
+#: elements/blog-grid.php:629 elements/blog-list.php:279
+#: elements/blog-list.php:336 elements/blog-list.php:650
+#: elements/blog-list.php:1014 elements/products.php:160
+#: elements/products.php:315 elements/slider.php:435 elements/slider.php:510
+#: elements/slider.php:779
+msgid "Normal"
+msgstr ""
+
+#: elements/blog-block.php:495 elements/blog-grid.php:386
+#: elements/blog-list.php:286 elements/slider.php:445
+msgid "Category Color"
+msgstr ""
+
+#: elements/blog-block.php:506 elements/blog-block.php:563
+#: elements/blog-block.php:652 elements/blog-block.php:954
+#: elements/blog-grid.php:397 elements/blog-grid.php:455
+#: elements/blog-grid.php:762 elements/blog-list.php:297
+#: elements/blog-list.php:355 elements/blog-list.php:783
+#: elements/blog-list.php:1147 elements/products.php:188
+#: elements/products.php:448 elements/slider.php:459 elements/slider.php:529
+#: elements/slider.php:912
+msgid "Hover"
+msgstr ""
+
+#: elements/blog-block.php:512 elements/blog-grid.php:403
+#: elements/blog-list.php:303 elements/slider.php:468
+msgid "Category Color hover"
+msgstr ""
+
+#: elements/blog-block.php:525 elements/blog-grid.php:417
+#: elements/blog-list.php:317 elements/slider.php:485
+msgid "Category Typography"
+msgstr ""
+
+#: elements/blog-block.php:551
+msgid "Main Post Title Color"
+msgstr ""
+
+#: elements/blog-block.php:570
+msgid "Main Post Title Color: Hover"
+msgstr ""
+
+#: elements/blog-block.php:586
+msgid "Main Post Title Typography"
+msgstr ""
+
+#: elements/blog-block.php:602
+msgid "Main Post Excerpt Color"
+msgstr ""
+
+#: elements/blog-block.php:614
+msgid "Main Post Excerpt Typography"
+msgstr ""
+
+#: elements/blog-block.php:640
+msgid "Secondary Post Title Color"
+msgstr ""
+
+#: elements/blog-block.php:659
+msgid "Secondary Post Title Color: Hover"
+msgstr ""
+
+#: elements/blog-block.php:675
+msgid "Secondary Post Title Typography"
+msgstr ""
+
+#: elements/blog-block.php:691
+msgid "Secondary Post Excerpt Color"
+msgstr ""
+
+#: elements/blog-block.php:703
+msgid "Secondary Post Excerpt Typography"
+msgstr ""
+
+#: elements/blog-block.php:720 elements/blog-grid.php:524
+#: elements/blog-list.php:427 elements/products.php:242
+msgid "Inner Styles"
+msgstr ""
+
+#: elements/blog-block.php:727 elements/blog-grid.php:531
+#: elements/blog-list.php:434 elements/products.php:132
+msgid "Image & Content Gap"
+msgstr ""
+
+#: elements/blog-block.php:752 elements/blog-grid.php:557
+#: elements/blog-list.php:460 elements/products.php:250
+msgid "Columns Gap"
+msgstr ""
+
+#: elements/blog-block.php:779 elements/blog-grid.php:583
+#: elements/blog-list.php:486 elements/products.php:276
+msgid "Rows Gap"
+msgstr ""
+
+#: elements/blog-block.php:808 elements/blog-grid.php:616
+#: elements/slider.php:766
+msgid "Readmore Button Styles"
+msgstr ""
+
+#: elements/blog-block.php:828 elements/blog-grid.php:636
+#: elements/blog-list.php:657 elements/blog-list.php:1021
+#: elements/products.php:322 elements/slider.php:786
+msgid "Button Text Color"
+msgstr ""
+
+#: elements/blog-block.php:839 elements/blog-grid.php:647
+#: elements/blog-list.php:668 elements/blog-list.php:1032
+#: elements/products.php:333 elements/slider.php:797
+msgid "Button Background Color"
+msgstr ""
+
+#: elements/blog-block.php:869 elements/blog-block.php:1002
+#: elements/blog-grid.php:677 elements/blog-grid.php:810
+#: elements/blog-list.php:698 elements/blog-list.php:831
+#: elements/blog-list.php:1062 elements/blog-list.php:1195
+#: elements/products.php:363 elements/products.php:496 elements/slider.php:827
+#: elements/slider.php:960
+msgid "Border Width"
+msgstr ""
+
+#: elements/blog-block.php:902 elements/blog-block.php:1035
+#: elements/blog-grid.php:710 elements/blog-grid.php:843
+#: elements/blog-list.php:731 elements/blog-list.php:864
+#: elements/blog-list.php:1095 elements/blog-list.php:1228
+#: elements/products.php:396 elements/products.php:529 elements/slider.php:860
+#: elements/slider.php:993
+msgid "Button Border Color"
+msgstr ""
+
+#: elements/blog-block.php:912 elements/blog-block.php:1045
+#: elements/blog-grid.php:720 elements/blog-grid.php:853
+#: elements/blog-list.php:741 elements/blog-list.php:874
+#: elements/blog-list.php:1105 elements/blog-list.php:1238
+#: elements/products.php:406 elements/products.php:539 elements/slider.php:870
+#: elements/slider.php:1003
+msgid "Border Radius"
+msgstr ""
+
+#: elements/blog-block.php:945 elements/blog-block.php:1078
+#: elements/blog-grid.php:753 elements/blog-grid.php:886
+#: elements/blog-list.php:774 elements/blog-list.php:907
+#: elements/blog-list.php:1138 elements/blog-list.php:1271
+#: elements/products.php:439 elements/products.php:572 elements/slider.php:903
+#: elements/slider.php:1036
+msgid "Box Shadow"
+msgstr ""
+
+#: elements/blog-block.php:961 elements/blog-grid.php:769
+#: elements/blog-list.php:790 elements/blog-list.php:1154
+#: elements/products.php:455 elements/slider.php:919
+msgid "Button Text Color: Hover"
+msgstr ""
+
+#: elements/blog-block.php:972 elements/blog-grid.php:780
+#: elements/blog-list.php:801 elements/blog-list.php:1165
+#: elements/products.php:466 elements/slider.php:930
+msgid "Button Background Color: Hover"
+msgstr ""
+
+#: elements/blog-block.php:1098 elements/blog-grid.php:906
+#: elements/blog-list.php:927 elements/blog-list.php:1291
+#: elements/products.php:592 elements/slider.php:1056
+msgid "Button Typography"
+msgstr ""
+
+#: elements/blog-block.php:1106 elements/blog-grid.php:914
+#: elements/blog-list.php:935 elements/blog-list.php:1299
+#: elements/products.php:600 elements/slider.php:699 elements/slider.php:1064
+msgid "Margin"
+msgstr ""
+
+#: elements/blog-block.php:1138 elements/blog-grid.php:946
+#: elements/blog-list.php:967 elements/blog-list.php:1331
+#: elements/products.php:632 elements/slider.php:731 elements/slider.php:1096
+msgid "Padding"
+msgstr ""
+
+#: elements/blog-grid.php:15
+msgid "Post Grid"
+msgstr ""
+
+#: elements/blog-grid.php:50 elements/blog-list.php:48 elements/slider.php:75
+msgid "Image Size"
+msgstr ""
+
+#: elements/blog-grid.php:121 elements/products.php:82
+msgid "No. of Columns:"
+msgstr ""
+
+#: elements/blog-grid.php:126 elements/products.php:87
+msgid "1"
+msgstr ""
+
+#: elements/blog-grid.php:127 elements/products.php:88
+msgid "2"
+msgstr ""
+
+#: elements/blog-grid.php:128 elements/products.php:89
+msgid "3"
+msgstr ""
+
+#: elements/blog-grid.php:129 elements/products.php:90 elements/products.php:91
+msgid "4"
+msgstr ""
+
+#: elements/blog-grid.php:141
+msgid "Enable Carousel"
+msgstr ""
+
+#: elements/blog-grid.php:144 includes/elementor-helper.php:310
+#: includes/elementor-helper.php:346 includes/elementor-helper.php:380
+#: includes/elementor-helper.php:440 includes/elementor-helper.php:453
+#: includes/elementor-helper.php:501 includes/elementor-helper.php:515
+#: includes/elementor-helper.php:529 includes/elementor-helper.php:554
+msgid "Yes"
+msgstr ""
+
+#: elements/blog-grid.php:145 includes/elementor-helper.php:311
+#: includes/elementor-helper.php:347 includes/elementor-helper.php:381
+#: includes/elementor-helper.php:441 includes/elementor-helper.php:454
+#: includes/elementor-helper.php:502 includes/elementor-helper.php:516
+#: includes/elementor-helper.php:530 includes/elementor-helper.php:555
+msgid "No"
+msgstr ""
+
+#: elements/blog-grid.php:153 elements/blog-list.php:144 elements/slider.php:87
+msgid "Fallback Image:"
+msgstr ""
+
+#: elements/blog-grid.php:165 elements/slider.php:100
+#: includes/elementor-helper.php:30
+msgid "Query"
+msgstr ""
+
+#: elements/blog-grid.php:173 includes/elementor-helper.php:52
+msgid "Categories"
+msgstr ""
+
+#: elements/blog-grid.php:185 includes/elementor-helper.php:66
+msgid "Authors"
+msgstr ""
+
+#: elements/blog-grid.php:197 includes/elementor-helper.php:80
+msgid "Tags"
+msgstr ""
+
+#: elements/blog-grid.php:210 includes/elementor-helper.php:95
+msgid "Exclude Posts"
+msgstr ""
+
+#: elements/blog-grid.php:222 includes/elementor-helper.php:109
+msgid "Order"
+msgstr ""
+
+#: elements/blog-grid.php:225 includes/elementor-helper.php:112
+msgid "Descending"
+msgstr ""
+
+#: elements/blog-grid.php:226 includes/elementor-helper.php:113
+msgid "Ascending"
+msgstr ""
+
+#: elements/blog-grid.php:235 includes/elementor-helper.php:124
+msgid "Order By"
+msgstr ""
+
+#: elements/blog-grid.php:245 includes/elementor-helper.php:136
+msgid "Offset"
+msgstr ""
+
+#: elements/blog-grid.php:254 includes/elementor-helper.php:147
+msgid "No. of Post"
+msgstr ""
+
+#: elements/blog-grid.php:272
+msgid "Carousel Setting"
+msgstr ""
+
+#: elements/blog-grid.php:348 elements/blog-list.php:248
+#: elements/slider.php:394
+msgid "Author Color"
+msgstr ""
+
+#: elements/blog-grid.php:361 elements/blog-list.php:260
+#: elements/slider.php:410
+msgid "Author Typography"
+msgstr ""
+
+#: elements/blog-grid.php:443 elements/blog-list.php:343
+#: elements/slider.php:517
+msgid "Content Title Color"
+msgstr ""
+
+#: elements/blog-grid.php:463 elements/blog-list.php:363
+#: elements/slider.php:536
+msgid "Content Title Color: Hover"
+msgstr ""
+
+#: elements/blog-grid.php:479 elements/blog-list.php:379
+#: elements/slider.php:552
+msgid "Content Title Typography"
+msgstr ""
+
+#: elements/blog-grid.php:495 elements/blog-list.php:395
+#: elements/slider.php:568
+msgid "Content Description Color"
+msgstr ""
+
+#: elements/blog-grid.php:507 elements/blog-list.php:407
+#: elements/slider.php:580
+msgid "Content Description Typography"
+msgstr ""
+
+#: elements/blog-list.php:15
+msgid "Post List"
+msgstr ""
+
+#: elements/blog-list.php:114
+msgid "Content Width"
+msgstr ""
+
+#: elements/blog-list.php:152 elements/blog-list.php:1001
+msgid "View All Button"
+msgstr ""
+
+#: elements/blog-list.php:162
+msgid "View All Button Link"
+msgstr ""
+
+#: elements/blog-list.php:164 elements/slider.php:268
+msgid "https://your-link.com"
+msgstr ""
+
+#: elements/blog-list.php:513
+msgid "Divider"
+msgstr ""
+
+#: elements/blog-list.php:559
+msgid "Divider Weight"
+msgstr ""
+
+#: elements/blog-list.php:584
+msgid "Divider Width"
+msgstr ""
+
+#: elements/blog-list.php:637
+msgid "Readmore Button"
+msgstr ""
+
+#: elements/products.php:36
+msgid "Woo Products"
+msgstr ""
+
+#: elements/products.php:99
+msgid "Product Categories"
+msgstr ""
+
+#: elements/products.php:110
+msgid "No. of Products"
+msgstr ""
+
+#: elements/products.php:166 elements/products.php:194
+msgid "Title Color"
+msgstr ""
+
+#: elements/products.php:176 elements/products.php:204
+msgid "Price Color"
+msgstr ""
+
+#: elements/products.php:221
+msgid "Title Typography"
+msgstr ""
+
+#: elements/products.php:231
+msgid "Price Typography"
+msgstr ""
+
+#: elements/products.php:305
+msgid "Product Button Styles"
+msgstr ""
+
+#: elements/slider.php:15
+msgid "Slider"
+msgstr ""
+
+#: elements/slider.php:38
+msgid "Slider Type"
+msgstr ""
+
+#: elements/slider.php:43
+msgid "Category"
+msgstr ""
+
+#: elements/slider.php:44
+msgid "Custom"
+msgstr ""
+
+#: elements/slider.php:52
+msgid "Slider Content Position"
+msgstr ""
+
+#: elements/slider.php:57
+msgid "Left Top"
+msgstr ""
+
+#: elements/slider.php:58
+msgid "Left Center"
+msgstr ""
+
+#: elements/slider.php:59
+msgid "Left Bottom"
+msgstr ""
+
+#: elements/slider.php:60
+msgid "Center Top"
+msgstr ""
+
+#: elements/slider.php:61
+msgid "Center Center"
+msgstr ""
+
+#: elements/slider.php:62
+msgid "Center Bottom"
+msgstr ""
+
+#: elements/slider.php:63
+msgid "Right Top"
+msgstr ""
+
+#: elements/slider.php:64
+msgid "Right Center"
+msgstr ""
+
+#: elements/slider.php:65
+msgid "Right Bottom"
+msgstr ""
+
+#: elements/slider.php:205 includes/elementor-helper.php:298
+msgid "Post Meta"
+msgstr ""
+
+#: elements/slider.php:218
+msgid "Custom Slider"
+msgstr ""
+
+#: elements/slider.php:231
+msgid "Background"
+msgstr ""
+
+#: elements/slider.php:239 elements/slider.php:241
+msgid "Slide Title"
+msgstr ""
+
+#: elements/slider.php:248
+msgid "Slide Content"
+msgstr ""
+
+#: elements/slider.php:250
+msgid "List Content"
+msgstr ""
+
+#: elements/slider.php:257
+msgid "Slide Button"
+msgstr ""
+
+#: elements/slider.php:266
+msgid "Link"
+msgstr ""
+
+#: elements/slider.php:281
+msgid "Slides"
+msgstr ""
+
+#: elements/slider.php:286
+msgid "Slide 1"
+msgstr ""
+
+#: elements/slider.php:287
+msgid "Slide Content."
+msgstr ""
+
+#: elements/slider.php:330
+msgid "Slider Min. Height"
+msgstr ""
+
+#: elements/slider.php:597
+msgid "Content Container"
+msgstr ""
+
+#: elements/slider.php:604
+msgid "Width"
+msgstr ""
+
+#: elements/slider.php:634
+msgid "Container Min. Height"
+msgstr ""
+
+#: elements/slider.php:675
+msgid "Text Alignment"
+msgstr ""
+
+#: elements/slider.php:683
+msgid "Center"
+msgstr ""
+
+#: includes/elementor-helper.php:38
+msgid "Post Type"
+msgstr ""
+
+#: includes/elementor-helper.php:307
+msgid "Show Categories"
+msgstr ""
+
+#: includes/elementor-helper.php:323
+msgid "Categories Position"
+msgstr ""
+
+#: includes/elementor-helper.php:328 includes/elementor-helper.php:362
+#: includes/elementor-helper.php:396
+msgid "Before Title"
+msgstr ""
+
+#: includes/elementor-helper.php:329 includes/elementor-helper.php:363
+#: includes/elementor-helper.php:397
+msgid "After Title"
+msgstr ""
+
+#: includes/elementor-helper.php:330 includes/elementor-helper.php:364
+#: includes/elementor-helper.php:398
+msgid "After Content"
+msgstr ""
+
+#: includes/elementor-helper.php:343
+msgid "Show Date"
+msgstr ""
+
+#: includes/elementor-helper.php:357
+msgid "Date Position"
+msgstr ""
+
+#: includes/elementor-helper.php:377
+msgid "Show Author"
+msgstr ""
+
+#: includes/elementor-helper.php:391
+msgid "Author Position"
+msgstr ""
+
+#: includes/elementor-helper.php:429
+msgid "Slider Settings"
+msgstr ""
+
+#: includes/elementor-helper.php:437
+msgid "Arrows"
+msgstr ""
+
+#: includes/elementor-helper.php:450
+msgid "Dots"
+msgstr ""
+
+#: includes/elementor-helper.php:463
+msgid "Dots Position"
+msgstr ""
+
+#: includes/elementor-helper.php:467
+msgid "Inside Slider"
+msgstr ""
+
+#: includes/elementor-helper.php:468
+msgid "Outside Slider"
+msgstr ""
+
+#: includes/elementor-helper.php:481
+msgid "Slides to Show"
+msgstr ""
+
+#: includes/elementor-helper.php:498
+msgid "Infinite Loop"
+msgstr ""
+
+#: includes/elementor-helper.php:512
+msgid "Pause on Hover"
+msgstr ""
+
+#: includes/elementor-helper.php:526
+msgid "Autoplay"
+msgstr ""
+
+#: includes/elementor-helper.php:540
+msgid "Autoplay Speed"
+msgstr ""
+
+#: includes/elementor-helper.php:551
+msgid "Swipe"
+msgstr ""
+
+#: includes/queries.php:322
+msgid "Select Menu"
+msgstr ""
+
+#: includes/queries.php:344
+msgid "Select Template"
+msgstr ""
+
+#: includes/queries.php:363
+msgid "No sidebars were found"
+msgstr ""
+
+#: includes/queries.php:365
+msgid "Select Sidebar"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"UT Elementor Addons Lite is a plugin that includes Elementor Elements for "
+"Uncode themes."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://uncodethemes.com/plugins/ut-elementor-addons-lite"
+msgstr ""
+
+#. Author of the plugin
+msgid "Uncodethemes"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://uncodethemes.com"
+msgstr ""
