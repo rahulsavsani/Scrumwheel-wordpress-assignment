@@ -209,10 +209,6 @@ if( class_exists( 'UT_Demo_Importer' ) ) {
 
 
 function job_application(){
-	echo 'hi';
-	print_r($_POST);
-	print_r($_FILES);
-	print_r(wp_get_upload_dir());
 	global $wpdb;
 
 		if(isset($_POST['submit']))
