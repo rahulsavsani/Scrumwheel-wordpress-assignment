@@ -45,6 +45,7 @@ set_post_thumbnail_size(1024,1024);
             <div class="entry-content">
 
                 <?php
+                $cat = get_the_terms(get_the_ID(), 'job-category');
                 echo '</br></br>';
                 echo '<b>Job Description:</b></br></br>';
                 the_content();
@@ -56,12 +57,11 @@ set_post_thumbnail_size(1024,1024);
                     echo '</br> Vacancies &nbsp;: ';
                     echo get_post_meta(get_the_ID(), 'job_vacancies', true);
                     echo '</br> Salary &emsp;&emsp;: Upto '. get_post_meta(get_the_ID(), 'salary_range', true). ' INR';
-                    echo '</br> Category &nbsp;&nbsp;:';
-                    echo get_the_term_list(get_the_ID(), 'job-category', '', ', ', '');
+                    echo '</br> Category &nbsp;&nbsp;: '. $cat[0]->name;
                     ?>
                 </div>
                 <?php
-                echo '</br> <b>Required Skills:</b> </br></br>'. get_post_meta(get_the_ID(), 'required_skills', true);
+                echo '</br></br> <b>Required Skills:</b> </br></br>'. get_post_meta(get_the_ID(), 'required_skills', true);
                 echo '</br></br>';
                 ?>
 
